@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.github.Evgenn91</groupId>
-    <artifactId>gateway-android-parent</artifactId>
+    <artifactId>gateway-mobile-parent</artifactId>
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
@@ -14,7 +14,7 @@
         <module>SBServer</module>
     </modules>
 
-    <name>Gateway :: Android :: Parent</name>
+    <name>Gateway :: Mobile :: Parent</name>
 
     <build>
         <plugins>
